@@ -485,10 +485,5 @@ padding: 10px;
         
     }
    
-    .slider{
-        background-image: url("small.png");
-        background-size: cover;
-        position: 20%;
-        
-    }
+
 }
